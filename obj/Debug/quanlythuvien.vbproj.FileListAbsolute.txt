@@ -1,0 +1,17 @@
+C:\Users\hoang\source\repos\quanlythuvien\bin\Debug\quanlythuvien.exe.config
+C:\Users\hoang\source\repos\quanlythuvien\bin\Debug\quanlythuvien.exe
+C:\Users\hoang\source\repos\quanlythuvien\bin\Debug\quanlythuvien.pdb
+C:\Users\hoang\source\repos\quanlythuvien\bin\Debug\quanlythuvien.xml
+C:\Users\hoang\source\repos\quanlythuvien\obj\Debug\quanlythuvien.vbproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\quanlythuvien\obj\Debug\quanlythuvien.Form1.resources
+C:\Users\hoang\source\repos\quanlythuvien\obj\Debug\quanlythuvien.formchinh.resources
+C:\Users\hoang\source\repos\quanlythuvien\obj\Debug\quanlythuvien.formsinhvien.resources
+C:\Users\hoang\source\repos\quanlythuvien\obj\Debug\quanlythuvien.Resources.resources
+C:\Users\hoang\source\repos\quanlythuvien\obj\Debug\quanlythuvien.vbproj.GenerateResource.cache
+C:\Users\hoang\source\repos\quanlythuvien\obj\Debug\quanlythuvien.vbproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\quanlythuvien\obj\Debug\quanlythuvien.exe
+C:\Users\hoang\source\repos\quanlythuvien\obj\Debug\quanlythuvien.xml
+C:\Users\hoang\source\repos\quanlythuvien\obj\Debug\quanlythuvien.pdb
+C:\Users\hoang\source\repos\quanlythuvien\obj\Debug\quanlythuvien.formttsach.resources
+C:\Users\hoang\source\repos\quanlythuvien\obj\Debug\quanlythuvien.muamuonsach.resources
+C:\Users\hoang\source\repos\quanlythuvien\obj\Debug\quanlythuvien.formttsinhvienmuonsach.resources
